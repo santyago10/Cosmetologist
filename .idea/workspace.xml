@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02e90bde-f59f-4c67-a410-49ec761bc80d" name="Default Changelist" comment="">
+      <change afterPath="E:/Author" afterDir="false" />
+      <change afterPath="E:/Luis" afterDir="false" />
+      <change afterPath="E:/PHP/.idea/PHP.iml" afterDir="false" />
+      <change afterPath="E:/PHP/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="E:/PHP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="E:/PHP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/bin/IdeaWin32.dll" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/bin/IdeaWin64.dll" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/bin/elevator.exe" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/bin/idea.properties" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/bin/inspect.bat" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/bin/jumplistbridge.dll" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/bin/jumplistbridge64.dll" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/bin/launcher.exe" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/bin/log.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/bin/phpstorm.bat" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/bin/phpstorm.exe.vmoptions" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/bin/phpstorm.svg" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/bin/phpstorm64.exe" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/bin/restarter.exe" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/bin/yjpagent.dll" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/build.txt" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/lib/platform-impl.jar" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/browser.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/flow.utilities.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.iterable.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.collection.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.core.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.generator.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.iterable.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.promise.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.proxy.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.reflect.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.symbol.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.symbol.wellknown.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2016.array.include.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2016.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2016.full.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2017.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2017.full.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2017.intl.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2017.object.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2017.sharedmemory.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2017.string.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2017.typedarrays.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2018.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2018.full.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2018.intl.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2018.promise.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2018.regexp.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es7.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.esnext.array.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.esnext.asynciterable.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.esnext.bigint.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.esnext.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.esnext.full.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.esnext.intl.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.esnext.promise.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.esnext.symbol.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.scripthost.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.webworker.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.webworker.importscripts.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/websql.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/xpath.d.ts" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/flow/bom.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/flow/core.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/flow/cssom.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/flow/dom.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/flow/indexeddb.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/flow/intl.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/flow/node.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/flow/react-dom.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/flow/react.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/flow/serviceworkers.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/flow/streams.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/flow/webassembly.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/sass/lib/sass.jar" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/textmate/lib/themes/All Hallow's Eve.tmTheme" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/textmate/lib/themes/Blackboard.tmTheme" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/textmate/lib/themes/Cobalt.tmTheme" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/textmate/lib/themes/Darcula.tmTheme" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/textmate/lib/themes/Github.tmTheme" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/textmate/lib/themes/IR_Black.tmTheme" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/textmate/lib/themes/Monokai.tmTheme" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/textmate/lib/themes/RailsCasts.tmTheme" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/textmate/lib/themes/Twilight.tmTheme" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/textmate/lib/themes/VibrantInk.tmTheme" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/textmate/lib/themes/default.tmTheme" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/xpath/lib/xpath.jar" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/product-info.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="429" column="50" selection-end-line="503" />
+              <folding>
+                <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#19;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="523" selection-start-line="523" selection-end-line="523" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="488">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/form-elements.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1088">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/js/scripts.js" />
+        <option value="$PROJECT_DIR$/assets/contact.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="990" />
+    <option name="width" value="925" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="unishablon_36" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unishablon_36" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unishablon_36" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unishablon_36" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unishablon_36" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unishablon_36" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unishablon_36" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unishablon_36" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/cosmetolog" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02e90bde-f59f-4c67-a410-49ec761bc80d" name="Default Changelist" comment="" />
+      <created>1558857396136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558857396136</updated>
+      <workItem from="1558857398214" duration="14358000" />
+      <workItem from="1558944171168" duration="7328000" />
+      <workItem from="1559031511409" duration="126000" />
+      <workItem from="1559035303090" duration="1308000" />
+      <workItem from="1559144437731" duration="41000" />
+      <workItem from="1560271029366" duration="2430000" />
+      <workItem from="1560868050959" duration="569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26160000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27114093" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery-1.11.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1530">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.magnific-popup.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2093">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.backstretch.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/masonry.pkgd.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/wow.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="76" column="73" selection-start-line="76" selection-start-column="73" selection-end-line="76" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2244" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3927" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/placeholder.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/form-elements.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="523" selection-start-line="523" selection-end-line="523" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="429" column="50" selection-end-line="503" />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#19;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
